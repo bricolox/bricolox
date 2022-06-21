@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bricolox
 - 👀 I’m interested in Game development, Online programming, Backend, DevOps
-- 🌱 I’m currently learning Unreal 5
+- 🌱 I’m currently learning Unreal 4
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: fabrice.decreau@gmail.com
 
